@@ -1,14 +1,33 @@
-# To-do list
+# To-Do List Application
 
-Create a simple application to let users add/remove/edit tasks.
-Tasks should have: title, deadline, status
-![task-list](task_list.png)
-![add-task](add_task.png)
-![edit-task](edit_task.png)
+A simple and beginner-friendly To-Do List application that allows users to add, update, and delete tasks. Each task contains a title, deadline, and status.
 
-## Requirements
-* `Title` should be unique
-* `Status` is one of 3 options : `["not started", "in progress", "done"]`
-* Form to add/edit tasks should be opened/closed by clicking on a button (see the screenshot)
-* Deploy your project to github page and provide link to your live server in README. Make sure your README file is informative and codes are well-formatted
-* Only minimum style (with SASS) is needed.
+
+## Features
+
+- Add new tasks
+- Update existing tasks
+- Delete tasks
+- Unique title for each task
+- Task status can be one of the following: "not started", "in progress", or "done"
+
+## Usage
+
+1. Clone the repository or download the source code.
+2. Open the `index.html` file in your web browser.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Project Structure
+
+- `index.html`: Main HTML file containing the structure of the application
+- `style.css`: Contains the styling for the application
+- `index.js`: Contains the JavaScript code for the application's functionality
+
+## License
+
+to preview the page. See [This](https://badurfadul.github.io/fs15_3-todo-app/)
